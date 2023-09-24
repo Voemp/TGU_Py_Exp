@@ -3,8 +3,9 @@
 [![Star](https://img.shields.io/github/stars/Voemp/TGU_Py_Exp)]()
 [![Fork](https://img.shields.io/github/forks/Voemp/TGU_Py_Exp)]()
 [![GitHub issues](https://img.shields.io/github/issues/Voemp/TGU_Py_Exp)]()
-[![GitHub license](https://img.shields.io/github/license/Voemp/TGU_Py_Exp)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Voemp/TGU_Py_Exp)]()
+[![GitHub license](https://img.shields.io/github/license/Voemp/TGU_Py_Exp)]()
+
 ### Python程序设计课程实验与作业
 
 > 本仓库用于存放Python程序设计课程的上机实验和课程作业，包括但不限于以下内容：
