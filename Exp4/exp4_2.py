@@ -3,7 +3,7 @@
 
 def is_prime(num):
     """判断是否为素数"""
-    for i in range(2, num // 2 + 1):
+    for i in range(2, num ** 0.5 + 1):
         if num % i == 0:
             return False
     else:
