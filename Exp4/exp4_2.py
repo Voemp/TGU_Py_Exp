@@ -10,6 +10,6 @@ def is_prime(num):
         return True
 
 
-pnlist = [str(num) for num in range(101) if is_prime(num)]
+pnlist = [str(num) for num in range(2, 101) if is_prime(num)]
 print(*pnlist, sep=',', end='。\n')
 print("100以内共有{}个素数。".format(len(pnlist)))
