@@ -41,5 +41,7 @@ class Teacher(SchoolMember):
 
 
 # 示例用法
+s = Student("小明", "男", 16, "计算机2201班", "2211640107", 97)
+s.printInfo()
 t = Teacher("张三", "男", 30, "计算机科学与技术", "001", 10000)
 t.printInfo()
